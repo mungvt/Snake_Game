@@ -1,0 +1,11 @@
+﻿Instroduce
+About this game: You are a snake and you must try to eat many fruit to raise up.
+Otherwhise you need to avoid way or other snakes. You need to advoid eating yourself.
+1.Control: Using key 'A' on your keybroad to turn left, 'D' to turn right, 'W' to up and 'S' to down.
+2.Map No Wall: Have no any way in your screen and you can run any way you wan. Any thing never will happen.
+3.Map EGG Map: In this map, it has many way around your screen and you must avoid them.
+4.Map Never Die: In this map, you will never die. If you eat yourself you still will alive.
+5.Map Snake Bot: in this map, you must compete with other snake, it is a bot and you have to eat the fruit
+before it. Especially, you can attack it, if you bite it, i will turn in to original and if it bite you, you will die.
+Goodluck!
+			press Enter to turn back Menu!

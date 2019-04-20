@@ -1,0 +1,20 @@
+﻿											Contribuitor
+-yêu cầu của giám khảo:
+	-thêm ko map.                                                              	Mừng		Done
+	-thêm cắn vào đuôi thì đứt đuôi nhưng rắn vẫn sống. 						Mừng		Done
+	-thêm thuật toán tự tìm đường ngắn nhất đến mồi.							Mừng
+-những lỗi phát hiện cần fix:
+	-xử lí clear màn hình thì bỏ map ra để fix hiện tượng giật màn hình:       	Mừng			Done 
+	-fix tốc độ: bằng cách thay đổi kích thước dãn dòng của màn hình console.  	An			Done 13/04/2019_An
+	-xử lí bỏ trường hợp rắn đổi đầu bị die.                                   	An			Done 13/04/2019_An
+	-xử lí hoa quả random trên tường					   	An			
+-những ý tưởng phát triển thêm:
+	thêm map:
+		1. Nothing( map ko tương)						   			Done 13/04/2019_An_
+		2. EGG (map có tường trong)									Done 13/04/2019_An_
+		3. War  A.(Nhiều con rắn thi đấu: tự tìm đường đến hq, time, //cắn).	
+                        B.(Rắn của mình chơi, sét đuổi mình theo đường đi ngắn nhất. chạm vào sét là chết) 
+	tạo thêm một vài con rắn thi đấu.						
+	tao phông, điểm, thanh trạng thái.						An
+
+	
